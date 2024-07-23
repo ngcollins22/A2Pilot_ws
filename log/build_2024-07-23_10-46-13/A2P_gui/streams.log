@@ -1,0 +1,21 @@
+[0.954s] Invoking command in '/root/A2Pilot_ws/build/A2P_gui': PYTHONPATH=/root/A2Pilot_ws/build/A2P_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/A2Pilot_ws/build/A2P_gui/build --no-deps symlink_data --force
+[1.379s] running develop
+[1.381s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.381s]   warnings.warn(
+[1.640s] running egg_info
+[1.641s] writing A2P_gui.egg-info/PKG-INFO
+[1.641s] writing dependency_links to A2P_gui.egg-info/dependency_links.txt
+[1.641s] writing entry points to A2P_gui.egg-info/entry_points.txt
+[1.641s] writing requirements to A2P_gui.egg-info/requires.txt
+[1.641s] writing top-level names to A2P_gui.egg-info/top_level.txt
+[1.644s] reading manifest file 'A2P_gui.egg-info/SOURCES.txt'
+[1.645s] writing manifest file 'A2P_gui.egg-info/SOURCES.txt'
+[1.646s] running build_ext
+[1.647s] Creating /root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages/A2P-gui.egg-link (link to .)
+[1.648s] Installing test_node script to /root/A2Pilot_ws/install/A2P_gui/lib/A2P_gui
+[1.650s] 
+[1.650s] Installed /root/A2Pilot_ws/build/A2P_gui
+[1.650s] running symlink_data
+[1.650s] symbolically linking /root/A2Pilot_ws/build/A2P_gui/resource/A2P_gui -> /root/A2Pilot_ws/install/A2P_gui/share/ament_index/resource_index/packages
+[1.650s] symbolically linking /root/A2Pilot_ws/build/A2P_gui/package.xml -> /root/A2Pilot_ws/install/A2P_gui/share/A2P_gui
+[1.693s] Invoked command in '/root/A2Pilot_ws/build/A2P_gui' returned '0': PYTHONPATH=/root/A2Pilot_ws/build/A2P_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/A2Pilot_ws/build/A2P_gui/build --no-deps symlink_data --force

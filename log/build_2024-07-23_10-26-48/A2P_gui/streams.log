@@ -1,0 +1,33 @@
+[0.907s] Invoking command in '/root/A2Pilot_ws/src/A2P_gui': PYTHONPATH=/root/A2Pilot_ws/build/A2P_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/A2P_gui build --build-base /root/A2Pilot_ws/build/A2P_gui/build install --record /root/A2Pilot_ws/build/A2P_gui/install.log --single-version-externally-managed install_data
+[1.239s] running egg_info
+[1.240s] creating ../../build/A2P_gui/A2P_gui.egg-info
+[1.243s] writing ../../build/A2P_gui/A2P_gui.egg-info/PKG-INFO
+[1.244s] writing dependency_links to ../../build/A2P_gui/A2P_gui.egg-info/dependency_links.txt
+[1.244s] writing entry points to ../../build/A2P_gui/A2P_gui.egg-info/entry_points.txt
+[1.245s] writing requirements to ../../build/A2P_gui/A2P_gui.egg-info/requires.txt
+[1.245s] writing top-level names to ../../build/A2P_gui/A2P_gui.egg-info/top_level.txt
+[1.245s] writing manifest file '../../build/A2P_gui/A2P_gui.egg-info/SOURCES.txt'
+[1.249s] reading manifest file '../../build/A2P_gui/A2P_gui.egg-info/SOURCES.txt'
+[1.251s] writing manifest file '../../build/A2P_gui/A2P_gui.egg-info/SOURCES.txt'
+[1.252s] running build
+[1.252s] running build_py
+[1.253s] creating /root/A2Pilot_ws/build/A2P_gui/build
+[1.253s] creating /root/A2Pilot_ws/build/A2P_gui/build/lib
+[1.254s] creating /root/A2Pilot_ws/build/A2P_gui/build/lib/A2P_gui
+[1.255s] copying A2P_gui/__init__.py -> /root/A2Pilot_ws/build/A2P_gui/build/lib/A2P_gui
+[1.255s] running install
+[1.256s] running install_lib
+[1.257s] creating /root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages/A2P_gui
+[1.258s] copying /root/A2Pilot_ws/build/A2P_gui/build/lib/A2P_gui/__init__.py -> /root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages/A2P_gui
+[1.258s] byte-compiling /root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages/A2P_gui/__init__.py to __init__.cpython-310.pyc
+[1.259s] running install_data
+[1.259s] creating /root/A2Pilot_ws/install/A2P_gui/share/ament_index
+[1.260s] creating /root/A2Pilot_ws/install/A2P_gui/share/ament_index/resource_index
+[1.260s] creating /root/A2Pilot_ws/install/A2P_gui/share/ament_index/resource_index/packages
+[1.261s] copying resource/A2P_gui -> /root/A2Pilot_ws/install/A2P_gui/share/ament_index/resource_index/packages
+[1.262s] copying package.xml -> /root/A2Pilot_ws/install/A2P_gui/share/A2P_gui
+[1.263s] running install_egg_info
+[1.266s] Copying ../../build/A2P_gui/A2P_gui.egg-info to /root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages/A2P_gui-0.0.0-py3.10.egg-info
+[1.269s] running install_scripts
+[1.302s] writing list of installed files to '/root/A2Pilot_ws/build/A2P_gui/install.log'
+[1.340s] Invoked command in '/root/A2Pilot_ws/src/A2P_gui' returned '0': PYTHONPATH=/root/A2Pilot_ws/build/A2P_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/A2P_gui build --build-base /root/A2Pilot_ws/build/A2P_gui/build install --record /root/A2Pilot_ws/build/A2P_gui/install.log --single-version-externally-managed install_data

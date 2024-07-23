@@ -1,0 +1,18 @@
+[1.019s] Invoking command in '/root/A2Pilot_ws/build/A2P_gui': PYTHONPATH=/root/A2Pilot_ws/build/A2P_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/A2Pilot_ws/build/A2P_gui/build --no-deps symlink_data
+[1.454s] running develop
+[1.722s] running egg_info
+[1.723s] writing A2P_gui.egg-info/PKG-INFO
+[1.724s] writing dependency_links to A2P_gui.egg-info/dependency_links.txt
+[1.724s] writing entry points to A2P_gui.egg-info/entry_points.txt
+[1.725s] writing requirements to A2P_gui.egg-info/requires.txt
+[1.725s] writing top-level names to A2P_gui.egg-info/top_level.txt
+[1.728s] reading manifest file 'A2P_gui.egg-info/SOURCES.txt'
+[1.730s] writing manifest file 'A2P_gui.egg-info/SOURCES.txt'
+[1.734s] running build_ext
+[1.734s] Creating /root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages/A2P-gui.egg-link (link to .)
+[1.736s] Installing draw_circle script to /root/A2Pilot_ws/install/A2P_gui/lib/A2P_gui
+[1.737s] Installing test_node script to /root/A2Pilot_ws/install/A2P_gui/lib/A2P_gui
+[1.737s] 
+[1.738s] Installed /root/A2Pilot_ws/build/A2P_gui
+[1.738s] running symlink_data
+[1.800s] Invoked command in '/root/A2Pilot_ws/build/A2P_gui' returned '0': PYTHONPATH=/root/A2Pilot_ws/build/A2P_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/A2Pilot_ws/install/A2P_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/A2Pilot_ws/build/A2P_gui/build --no-deps symlink_data

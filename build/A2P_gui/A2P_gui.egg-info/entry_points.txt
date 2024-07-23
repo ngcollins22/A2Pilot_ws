@@ -1,0 +1,5 @@
+[console_scripts]
+draw_circle = A2P_gui.draw_circle:main
+test_node = A2P_gui.my_first_node:main
+twist_sub = A2P_gui.my_first_subscriber:main
+

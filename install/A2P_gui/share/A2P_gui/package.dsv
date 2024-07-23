@@ -1,0 +1,9 @@
+source;share/A2P_gui/hook/pythonpath.ps1
+source;share/A2P_gui/hook/pythonpath.dsv
+source;share/A2P_gui/hook/pythonpath.sh
+source;share/A2P_gui/hook/ament_prefix_path.ps1
+source;share/A2P_gui/hook/ament_prefix_path.dsv
+source;share/A2P_gui/hook/ament_prefix_path.sh
+source;../../build/A2P_gui/share/A2P_gui/hook/pythonpath_develop.ps1
+source;../../build/A2P_gui/share/A2P_gui/hook/pythonpath_develop.dsv
+source;../../build/A2P_gui/share/A2P_gui/hook/pythonpath_develop.sh

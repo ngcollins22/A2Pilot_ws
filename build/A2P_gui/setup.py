@@ -1,1 +1,0 @@
-/root/A2Pilot_ws/src/A2P_gui/setup.py
